@@ -1,5 +1,5 @@
 def greet(SAM):
-    return f"Hello, {name}! Welcome to Git version control demo."
+    return f"Hello, {SAM}! Welcome to Git version control demo."
 
 def add_numbers(a, b):
     return a + b
